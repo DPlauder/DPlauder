@@ -1,16 +1,59 @@
-## Hi there 👋
+Hi there! I'm [Your Name] 👋
 
-<!--
-**DPlauder/DPlauder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer passionate about building scalable, high-performance applications. My expertise lies in developing dynamic web applications and APIs using modern technologies.
 
-Here are some ideas to get you started:
+🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend:
+
+⚛ React.js (Next.js, Redux, TailwindCSS)
+
+📜 TypeScript / JavaScript
+
+💎 HTML5, CSS3, SASS
+
+Backend:
+
+🐘 PHP (Laravel, Symfony)
+
+🏗 C# (.NET Core, ASP.NET)
+
+🔥 Node.js (Express.js)
+
+Databases & DevOps:
+
+🐘 PostgreSQL / MySQL / MongoDB
+
+☁ AWS, Docker, CI/CD Pipelines
+
+🔍 Redis, RabbitMQ
+
+📫 Connect with Me
+
+🌐 Portfolio Website
+
+💼 LinkedIn
+
+🐦 Twitter
+
+📧 Email: your.email@example.com
+
+🛠️ Projects & Contributions
+
+Check out my repositories for projects related to full-stack development, RESTful APIs, and scalable web solutions!
+
+🔗 Pinned Repositories:
+
+Project 1 - A full-stack React & PHP API project.
+
+Project 2 - A C# .NET application.
+
+More...
+
+🌱 Currently Learning
+
+🚀 GraphQL, WebSockets, and Microservices
+
+📈 Performance optimization techniques
+
+Thanks for stopping by! Happy coding! 🚀
