@@ -16,10 +16,6 @@ DevOps & Workflow
 👉 https://portfolio.plaudertech-solution.at/
 📫 Contact
 
-✉️ dominiks.mailadresse@example.com
-
-💼 LinkedIn / XING (falls vorhanden)
-
 ✨ About Me
 
 👨‍💻 Full Stack Developer mit Leidenschaft für moderne Webtechnologien
@@ -28,4 +24,3 @@ DevOps & Workflow
 
 🧪 Interesse an DevOps, Systemadministration & Automatisierung
 
-🎮 Hobby-Entwickler mit Unity
